@@ -10,7 +10,11 @@ x = 'x'
 print(x[1:])
 
 # Task 2
-
+userNumber = input('Введите номер телефона: ')
+if len(userNumber) == 10:
+    print('Номер введен верно!')
+else:
+    print('Неверный ввод номера!')
 
 # Task 3
 import random
