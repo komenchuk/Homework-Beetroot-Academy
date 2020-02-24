@@ -1,4 +1,4 @@
-"""# Task 1
+# Task 1
 name = input('Как Вас зовут? --> ')
 day = input('Какой сегодня день недели? --> ')
 print("Good day, " + name + "! " + day + " is a perfect day to learn some Python.")
@@ -7,7 +7,7 @@ print("Good day, " + name + "! " + day + " is a perfect day to learn some Python
 nameUser = input('Как Вас зовут? --> ')
 surnameUser = input('Укажите Вашу фамилию. --> ' )
 day = input('Какой сегодня день недели? --> ')
-print("Good day, " + nameUser + ' ' + surnameUser + "! " + day + " is a perfect day to learn some Python.")"""
+print("Good day, " + nameUser + ' ' + surnameUser + "! " + day + " is a perfect day to learn some Python.")
 
 # Task 3
 print('Эта программа использует введенные Вами данные для вычесления ИМТ (индекса массы тела)')
